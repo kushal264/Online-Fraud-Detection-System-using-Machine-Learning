@@ -65,7 +65,6 @@ Lightweight and deployable architecture
 📂 Project Structure
 ├── fraud_detection_pipeline.pkl
 ├── app.py
-├── requirements.txt
 └── README.md
 
 📈 Future Improvements
